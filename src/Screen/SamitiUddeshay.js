@@ -10,10 +10,10 @@ const SamitiUddeshay=()=>
     return(
         <div>
             <MenuBar/>
-            <h1 style={{textAlign:"center", color:"green", padding:10, backgroundColor:"white"}}>ट्रस्ट उद्देश्य सूची</h1>
+            <h1 style={{textAlign:"center", color:"green", padding:10, backgroundColor:"white"}}>समिति उद्देश्य सूची</h1>
             
 
-            <h3  style={{textAlign:"left", fontWeight:"bold",backgroundColor:"lightcoral",color:"white", padding:10,  }} >चिन्दडी श्री वीर तेजाजी मंदिर विकास ट्रस्ट का रजिस्ट्रेशन राजस्थान लोकन्यास  अधिनियम 1959 के अन्तर्गत किया गया है जिसका रजिस्ट्रेशन क्रमांक 38/2021/जोधपुर है।</h3>
+            <h3  style={{textAlign:"left", fontWeight:"bold",backgroundColor:"lightcoral",color:"white", padding:10,  }} >श्री वीर तेजा विकास समिति सांगलिया का रजिस्ट्रेशन राजस्थान सोसायटी रजिस्ट्रेशन अधिनियम 1958 के अन्तर्गत किया गया है जिसका रजिस्ट्रेशन क्रमांक COOP/2019/SIKAR/101080 है।</h3>
             
             
             <Table striped bordered hover size="sm" style={{marginTop:100, textAlign:"left"}}>

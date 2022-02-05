@@ -71,6 +71,7 @@ const AdminSamitiSadasay = () => {
         if (validate()) {
             // alert("validation done")
             // console.log(memberName,address,designation,mobile,priority)
+            //alert("test")
             await Axios.post(`${saveAndUpdateSamitiMember}`, {
                 id: id,
                 memberName: memberName,

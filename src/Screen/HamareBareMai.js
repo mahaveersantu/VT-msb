@@ -17,7 +17,7 @@ const HamareBareMai = () => {
                         <Card.Title style={{ color: "white", fontSize: 26, fontWeight: "bold", backgroundColor: "green" }}> -:डिजिटल दानदाताओ के लिये:-</Card.Title>
                         <Card.Text style={{ color: "black", fontSize: 22, fontWeight: "bold", }}>
                             फोन पे/ गूगल पे/ पेटीएम<br></br>
-                            Mob. 9214596097 (Baga Ram Choudhary)
+                           
                         </Card.Text>
 
                     </Card.Body>
@@ -30,9 +30,9 @@ const HamareBareMai = () => {
                     <Card.Body>
                         <Card.Title style={{ color: "white", fontSize: 26, fontWeight: "bold", backgroundColor: "green" }}>-:सम्पर्क सूत्र:-</Card.Title>
                         <Card.Text style={{ color: "black", fontSize: 22, fontWeight: "bold",  }}>
-                            मोबाइल न0-  9214596097
+                            मोबाइल न0-  80790-68976, 94686-86953 ,96944-84119
                             <br></br>
-                            ई-मेल- veertejachindari@gmail.com
+                            ई-मेल- veertejasangaliya@gmail.com
                         </Card.Text>
                     </Card.Body>
 
@@ -43,10 +43,10 @@ const HamareBareMai = () => {
                 <Card className="text-center" style={{ height: '15rem', borderWidth: 2, borderColor: "black", borderRadius: 35 }} >
                     <Card.Body>
                         <Card.Title style={{ color: "white", fontSize: 26, fontWeight: "bold", backgroundColor: "green" }}> -:बैंक खाता विवरण:-</Card.Title>
-                        <Card.Text style={{ color: "black", fontSize: 22, fontWeight: "bold",  }}> Account holder Name:-****** <br></br>
-                            Account No.:-******* <br></br>
-                            Ifsc Code :-****** <br></br>
-                            Bank Name :-****** </Card.Text>
+                        <Card.Text style={{ color: "black", fontSize: 22, fontWeight: "bold",  }}> Account holder Name:-veer teja vikas samiti sangaliya <br></br>
+                            Account No :-920010003873067 <br></br>
+                            Ifsc Code :-UTIB0001795 <br></br>
+                            Bank Name :-Axis Bank Losal </Card.Text>
 
                     </Card.Body>
 

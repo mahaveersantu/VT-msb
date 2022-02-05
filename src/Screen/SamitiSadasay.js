@@ -53,7 +53,7 @@ const SamitiSadasay=()=>
     return(
         <div>
              <MenuBar/>
-             <h1 style={{textAlign:"center", color:"white", padding:10, backgroundColor:"#01579b"}}>चिन्दडी श्री वीर तेजाजी मंदिर विकास ट्रस्ट सदस्य सूची</h1>
+             <h1 style={{textAlign:"center", color:"white", padding:10, backgroundColor:"#01579b"}}> श्री वीर तेजाजी विकास समिति-सांगलिया सीकर सदस्य सूची</h1>
             {/* <h2>{getAllActiveSamitiMembers}</h2> */}
             <div >
                     <div style={{display:"flex", justifyContent:"center", alignContent:"center"}}>

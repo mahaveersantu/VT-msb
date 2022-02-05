@@ -21,11 +21,11 @@ const MenuBar = () => {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="justify-content-end" style={{ width: "100%",color:'white'}}>
-              <NavDropdown title="ट्रस्ट" id="collasible-nav-dropdown">
-                <NavDropdown.Item as={Link} to="samiti_Uddeshay">ट्रस्ट उद्देश्य</NavDropdown.Item>
+              <NavDropdown title="समिति" id="collasible-nav-dropdown">
+                <NavDropdown.Item as={Link} to="samiti_Uddeshay">समिति उद्देश्य</NavDropdown.Item>
                 <NavDropdown.Divider />
 
-                <NavDropdown.Item as={Link} to="samiti_Sadasay">ट्रस्ट सदस्य</NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="samiti_Sadasay">समिति सदस्य</NavDropdown.Item>
 
               </NavDropdown>
 

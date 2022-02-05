@@ -127,8 +127,8 @@ const Home = () =>
           <Col><Cards4 title="गत मास का कुल प्राप्ति और खर्चा" subtitle1=" गत मास का कुल प्राप्ति" subtitle2={res} subtitle3="गत मास का कुल खर्चा" subtitle4={res4} value1="" value2=" " value3="" value4=""  /></Col>
         </Row>
         <Row >
-          <Col><Cards4 title="गूगल / फ़ोन पे " subtitle1=" Name" subtitle2="GooglePay No." subtitle3="PhonePay No" subtitle4="Paytm" value1="Baga Ram Choudhary" value2="9214596097 " value3="9214596097" value4="9214596097" /></Col>
-          <Col><Cards4 title="ट्रस्ट बैंक खाता विवरण" subtitle1="खाता धारक का नाम" subtitle2="बैंक नाम " subtitle3="खाता संख्या" subtitle4="IFSC कोड" value1="" value2="" value3="" value4="" /></Col>
+          <Col><Cards4 title="गूगल / फ़ोन पे " subtitle1=" Name" subtitle2="GooglePay No." subtitle3="PhonePay No" subtitle4="Paytm" value1="Mahaveer Singh" value2="********** " value3="**********" value4="**********" /></Col>
+          <Col><Cards4 title="समिति बैंक खाता विवरण" subtitle1="खाता धारक का नाम" subtitle2="बैंक नाम " subtitle3="खाता संख्या" subtitle4="IFSC कोड" value1="shree veer teja vikas samiti sangaliya" value2="Axis Bank Losal" value3="920010003873067" value4="UTIB0001795" /></Col>
           <Col><Cards4 title="Visitors" subtitle1=" Unique Visitors" subtitle2= {uniqueVisitor} subtitle3="Total Visitors" subtitle4={totalVisitor} value1="" value2="" /></Col>
 
         </Row>
